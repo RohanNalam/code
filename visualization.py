@@ -12,7 +12,7 @@ QUERY_STRING = {
 }
 
 HEADERS = {
-    "X-RapidAPI-Key": "e73638a09cmsh6eee572608ec92fp12fc8djsnbf7695bf4ee9",
+    "X-RapidAPI-Key": "changeme",
     "X-RapidAPI-Host": "alpha-vantage.p.rapidapi.com"
 }
 
